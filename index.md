@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+欢迎进入我的blog，本blog主要针对android，java的技术总结。 
